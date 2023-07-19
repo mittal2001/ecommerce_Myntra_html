@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Signika+Negative:wght@300&display=swap');
+
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Signika Negative', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.left img{
+  width:80px;
+  height:62px;
+}
+header{
+ background: white;
+  top : 0;
+  position :sticky;
+  height: 86px;
+}
+.container{
+  padding: 0 10vw;
+  margin:13px 0; 
+}
+nav{
+  font-size: 15px;
+  padding-top :10px ;
+}
+nav ul li{
+  list-style: none;
+  padding: 0 12px;
+}
+.section1{
+  background-color: #f0f0f0;
+}
+.search{
+  border-radius: 5px;
+  width:30vw;
+  border:0.5px #b0b0b0;
+  background: #ffffff;
+  padding :7px 17px;
+}
+.homeImg{
+  width: 85vw;
+  
+}
+.my-2{
+  margin :12px 0;
+}
+footer{
+  padding: 23px;
+  text-align: center;
+  box-shadow:rgb(0 0 0/24%) 0px 3px 8px;
+}
